@@ -1,0 +1,12 @@
+langchain_openai
+PyPDF2
+langchain_community
+streamlit
+pyngrok
+PyMuPDF
+python-docx
+docx2pdf
+faiss-gpu-cu11
+cassandra-driver
+mistralai
+langchain-mistralai
